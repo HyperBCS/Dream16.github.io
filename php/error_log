@@ -1,0 +1,36 @@
+[30-Aug-2016 16:49:47 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 59
+[30-Aug-2016 22:24:54 America/Denver] PHP Notice:  Undefined index: name in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 7
+[30-Aug-2016 22:24:54 America/Denver] PHP Notice:  Undefined index: emailid in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 8
+[30-Aug-2016 22:24:54 America/Denver] PHP Notice:  Undefined index: message in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 9
+[30-Aug-2016 22:31:56 America/Denver] PHP Notice:  Undefined index: name in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 7
+[30-Aug-2016 22:31:56 America/Denver] PHP Notice:  Undefined index: emailid in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 8
+[30-Aug-2016 22:31:56 America/Denver] PHP Notice:  Undefined index: message in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 9
+[30-Aug-2016 22:32:40 America/Denver] PHP Notice:  Undefined index: name in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 7
+[30-Aug-2016 22:32:40 America/Denver] PHP Notice:  Undefined index: emailid in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 8
+[30-Aug-2016 22:32:40 America/Denver] PHP Notice:  Undefined index: message in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 9
+[30-Aug-2016 22:33:30 America/Denver] PHP Notice:  Undefined index: name in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 7
+[30-Aug-2016 22:33:30 America/Denver] PHP Notice:  Undefined index: emailid in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 8
+[30-Aug-2016 22:33:30 America/Denver] PHP Notice:  Undefined index: message in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 9
+[31-Aug-2016 14:42:01 America/Denver] PHP Notice:  Undefined index: name in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 7
+[31-Aug-2016 14:42:01 America/Denver] PHP Notice:  Undefined index: emailid in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 8
+[31-Aug-2016 14:42:01 America/Denver] PHP Notice:  Undefined index: message in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 9
+[31-Aug-2016 14:46:57 America/Denver] PHP Notice:  Undefined index: name in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 7
+[31-Aug-2016 14:46:57 America/Denver] PHP Notice:  Undefined index: emailid in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 8
+[31-Aug-2016 14:46:57 America/Denver] PHP Notice:  Undefined index: message in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 9
+[31-Aug-2016 14:50:14 America/Denver] PHP Notice:  Undefined index: name in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 7
+[31-Aug-2016 14:50:14 America/Denver] PHP Notice:  Undefined index: emailid in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 8
+[31-Aug-2016 14:50:14 America/Denver] PHP Notice:  Undefined index: message in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 9
+[31-Aug-2016 15:13:50 America/Denver] PHP Parse error:  syntax error, unexpected '[' in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 15
+[31-Aug-2016 16:23:32 America/Denver] PHP Parse error:  syntax error, unexpected '[' in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 15
+[31-Aug-2016 16:44:18 America/Denver] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 7
+[31-Aug-2016 16:50:51 America/Denver] PHP Notice:  Undefined variable: name in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 33
+[31-Aug-2016 16:50:51 America/Denver] PHP Notice:  Undefined variable: email in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 36
+[31-Aug-2016 16:50:51 America/Denver] PHP Notice:  Undefined variable: msg_subject in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 39
+[31-Aug-2016 16:50:51 America/Denver] PHP Notice:  Undefined variable: message in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 42
+[31-Aug-2016 16:50:51 America/Denver] PHP Notice:  Undefined variable: email in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 46
+[31-Aug-2016 16:53:36 America/Denver] PHP Notice:  Undefined variable: msg_subject in /home4/zaidqume/public_html/newRutgersEsports/php/sendEmail.php on line 39
+[31-Aug-2016 17:30:26 America/Denver] PHP Notice:  Undefined variable: name in /home4/zaidqume/public_html/newRutgersEsports/php/form-process.php on line 41
+[31-Aug-2016 17:30:26 America/Denver] PHP Notice:  Undefined variable: email in /home4/zaidqume/public_html/newRutgersEsports/php/form-process.php on line 44
+[31-Aug-2016 17:30:26 America/Denver] PHP Notice:  Undefined variable: msg_subject in /home4/zaidqume/public_html/newRutgersEsports/php/form-process.php on line 47
+[31-Aug-2016 17:30:26 America/Denver] PHP Notice:  Undefined variable: message in /home4/zaidqume/public_html/newRutgersEsports/php/form-process.php on line 50
+[31-Aug-2016 17:30:26 America/Denver] PHP Notice:  Undefined variable: email in /home4/zaidqume/public_html/newRutgersEsports/php/form-process.php on line 54
