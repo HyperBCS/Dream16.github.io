@@ -49,3 +49,11 @@ footer{
     left: 0;
     min-height: 700px;
 }
+
+/* iphone */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	.carousel{ height: 300px}
+	.carousel .item{height: 300px}
+	.item img{ min-height:300px}
+	#clubModal{ max-height: 50%; max-width: 50%; padding: 10px} 
+}
