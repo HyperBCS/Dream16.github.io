@@ -57,3 +57,12 @@ footer{
 	.item img{ min-height:300px}
 	#clubModal{ max-height: 50%; max-width: 50%; padding: 10px} 
 }
+
+#sponsorLogo{
+	background:#483D3d;
+}
+
+#customBorder{
+	background:#FFFFFF;
+	height:5px;
+}
